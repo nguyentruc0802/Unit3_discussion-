@@ -1,5 +1,3 @@
-# Unit3_discussion-
-
 # Unit 3 Discussion: List Operations
 
 ## Overview
